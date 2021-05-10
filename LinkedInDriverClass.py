@@ -1,7 +1,6 @@
 #for more projects visit:
 # Github: https://github.com/zeglami/scraping_linkedin
 
-
 #Imports
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
